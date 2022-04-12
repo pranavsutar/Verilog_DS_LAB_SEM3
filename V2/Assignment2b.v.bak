@@ -1,0 +1,41 @@
+module Assignment2b #(parameter N = 32 ) (a,b,c,d,s);
+input [N-1:0]a,b;
+input [2*N - 1 : 0]d;
+input [2:0]s;
+output [2*N:0]c;
+wire i1,i2,i3;
+assign i1 = s[2];
+assign i2 = s[1];
+assign i3 = s[0];
+wire [2*N:0] y1,y2,y3,y4,y5,y6,y7,y8,u1,u2,u3,u4,u5,u6,u7,u8 ;
+//wire [N:0]u1,u2;
+wire ic1,ic2,ic3;
+wire temp, tempp;
+
+assign ic1 = !i1;
+assign ic2 = !i2;
+assign ic3 = !i3;
+
+Nbit_add_sub #(.N(N))  UUT (.A(a) , .B(b) , .k(1'b0), .S(u1[N:0]) );
+Nbit_add_sub #(.N(N))  SSS (.A(a) , .B(b) , .k(1'b1), .S(u2[N:0]) );
+Nbit_comparator #(.n(N)) c1 (.A(a),.B(b),.G_final(u3[0]),.L_final(temp),.E_final(tempp));
+Nbit_comparator #(.n(N)) c2 (.A(a),.B(b),.G_final(temp),.L_final(u4[0]),.E_final(tempp));
+Nbit_comparator #(.n(N)) c3 (.A(a),.B(b),.G_final(temp),.L_final(tempp) ,.E_final(u5[0]));
+signed_multiplier #(.n(N),.m(N)) USMP(.a(a),.b(b),.k(1'b0),.y(u6[2*N-1:0]));
+
+signed_multiplier #(.n(N),.m(N)) SMP(.a(a),.b(b),.k(1'b1),.y(u7[2*N-1:0]));
+
+MAC_signed #(.N(N), .M(N)) FIN ( .A(a) , .B(b) , .C(u8) , .D(d)  ) ; 
+
+assign y1 = (ic1 &( ic2 & ic3))? u1 : 0;
+assign y2 = (ic1 &( ic2 & i3))? u2: 0;
+assign y3 = (ic1 & (i2 & ic3))? u3 : 0;
+assign y4 = (ic1 & (i2 & i3))? u4: 0;
+assign y5 = ((i1 & ic2) & ic3)? u5: 0;
+assign y6 = ((i1 & ic2 )& i3)? u6: 0;
+assign y7 = (i1 & i2 & ic3)? u7 : 0; 
+assign y8 = (i1 & (i2 & i3))? u8 :  0; 
+
+assign c = (y1 | y2) | (y3 | y4) | (y5 | y6) | (y7 | y8);
+
+endmodule

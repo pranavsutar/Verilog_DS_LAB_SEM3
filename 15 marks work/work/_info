@@ -1,0 +1,107 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/Logic Gates
+vJohn_COUNTER
+!s110 1639903414
+!i10b 1
+!s100 _d]65Z]]Q15CRAFfeM>Kg0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IhTD88ziaJ=W=RXRg]GUQ:1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/15 marks work
+w1639903403
+8C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/15 marks work/John_COUNTER.v
+FC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/15 marks work/John_COUNTER.v
+!i122 3
+Z3 L0 1 17
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1639903414.000000
+!s107 C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/15 marks work/John_COUNTER.v|
+!s90 -reportprogress|300|-work|work|C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/15 marks work/John_COUNTER.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@john_@c@o@u@n@t@e@r
+vRING_COUNTER
+!s110 1639903296
+!i10b 1
+!s100 IlT;ILFa2X3ji[m9Qm6I^1
+R0
+I:>SA0WA1^Y@3bVFjBn8Q=3
+R1
+R2
+w1639903271
+8C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/15 marks work/RING_COUNTER.v
+FC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/15 marks work/RING_COUNTER.v
+!i122 1
+R3
+R4
+r1
+!s85 0
+31
+!s108 1639903296.000000
+!s107 C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/15 marks work/RING_COUNTER.v|
+!s90 -reportprogress|300|-work|work|C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/15 marks work/RING_COUNTER.v|
+!i113 1
+R5
+R6
+n@r@i@n@g_@c@o@u@n@t@e@r
+vTB_John_COUNTER
+!s110 1639904262
+!i10b 1
+!s100 NP4jn5koCYSURk::i]YP[3
+R0
+Ig61SSX?YR8`5hz5YCa2?X0
+R1
+R2
+w1639904231
+8C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/15 marks work/TB_John_COUNTER.v
+FC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/15 marks work/TB_John_COUNTER.v
+!i122 8
+Z7 L0 1 18
+R4
+r1
+!s85 0
+31
+!s108 1639904262.000000
+!s107 C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/15 marks work/TB_John_COUNTER.v|
+!s90 -reportprogress|300|-work|work|C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/15 marks work/TB_John_COUNTER.v|
+!i113 1
+R5
+R6
+n@t@b_@john_@c@o@u@n@t@e@r
+vTB_RING_COUNTER
+!s110 1639904256
+!i10b 1
+!s100 _bK24dSoIR5YeEI1_nc562
+R0
+IX911l=b^g95:YhcLB]aL00
+R1
+R2
+w1639904052
+8C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/15 marks work/TB_RING_COUNTER.v
+FC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/15 marks work/TB_RING_COUNTER.v
+!i122 6
+R7
+R4
+r1
+!s85 0
+31
+!s108 1639904256.000000
+!s107 C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/15 marks work/TB_RING_COUNTER.v|
+!s90 -reportprogress|300|-work|work|C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/15 marks work/TB_RING_COUNTER.v|
+!i113 1
+R5
+R6
+n@t@b_@r@i@n@g_@c@o@u@n@t@e@r

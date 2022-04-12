@@ -1,0 +1,296 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2
+vArray_MUL_USign
+!s110 1640103344
+!i10b 1
+!s100 m_@7Dk`If>V>fO:?_eHoF3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ImB_P2A7<Kj1]Glj9Red^21
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1636732813
+8C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/Array_MUL_USign.v
+FC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/Array_MUL_USign.v
+!i122 23
+L0 6 36
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1640103344.000000
+!s107 C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/Array_MUL_USign.v|
+!s90 -reportprogress|300|-work|work|C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/Array_MUL_USign.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@array_@m@u@l_@u@sign
+vfull_adder
+!s110 1640103322
+!i10b 1
+!s100 AMOQE9dnD<[hYe2c@C@fE1
+R1
+I_^;:m]B5ecLBUTIMol:oo2
+R2
+R0
+w1636306396
+8C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/full_adder.v
+FC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/full_adder.v
+!i122 20
+L0 1 9
+R3
+r1
+!s85 0
+31
+!s108 1640103322.000000
+!s107 C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/full_adder.v|
+!s90 -reportprogress|300|-work|work|C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/full_adder.v|
+!i113 1
+R4
+R5
+vhalf_adder
+!s110 1640103315
+!i10b 1
+!s100 IBbM>d=5[?ZFmdF3a;eKD0
+R1
+IQzK`ffFID0gUddY]6U^ZF3
+R2
+R0
+w1636301350
+8C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/half_adder.v
+FC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/half_adder.v
+!i122 19
+L0 1 6
+R3
+r1
+!s85 0
+31
+!s108 1640103315.000000
+!s107 C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/half_adder.v|
+!s90 -reportprogress|300|-work|work|C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/half_adder.v|
+!i113 1
+R4
+R5
+vMAC_signed
+!s110 1640107365
+!i10b 1
+!s100 ;m89iWhHB8ZAGX1KY]Pf90
+R1
+IPT@POSXUaBXSbU]IeODa81
+R2
+R0
+w1640107330
+8C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/MAC_signed.v
+FC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/MAC_signed.v
+!i122 33
+L0 1 18
+R3
+r1
+!s85 0
+31
+!s108 1640107365.000000
+!s107 C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/MAC_signed.v|
+!s90 -reportprogress|300|-work|work|C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/MAC_signed.v|
+!i113 1
+R4
+R5
+n@m@a@c_signed
+vMatrixMultiplier
+!s110 1640107371
+!i10b 1
+!s100 F]@iz5WDdo]4U@FmF:<;c2
+R1
+I=QCZoTIm7YbJ75R=OMAe32
+R2
+R0
+w1640103957
+8C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/MatrixMultiplier.v
+FC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/MatrixMultiplier.v
+!i122 34
+L0 1 30
+R3
+r1
+!s85 0
+31
+!s108 1640107371.000000
+!s107 C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/MatrixMultiplier.v|
+!s90 -reportprogress|300|-work|work|C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/MatrixMultiplier.v|
+!i113 1
+R4
+R5
+n@matrix@multiplier
+vMultiply_by2
+!s110 1631010406
+!i10b 1
+!s100 A`7:8;I<RR=7FQ[0RW3[H0
+R1
+I^>O?a:[@kG54]04HCKb:V2
+R2
+R0
+w1631010390
+8C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/Multiply_by2.v
+FC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/Multiply_by2.v
+!i122 1
+L0 1 8
+R3
+r1
+!s85 0
+31
+!s108 1631010406.000000
+!s107 C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/Multiply_by2.v|
+!s90 -reportprogress|300|-work|work|C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/Multiply_by2.v|
+!i113 1
+R4
+R5
+n@multiply_by2
+vNbit_add_sub
+!s110 1640103360
+!i10b 1
+!s100 M]YYKQ21@e8?:S_5X@aZV2
+R1
+I_?31nYlWJLSSO^3]VMD]l2
+R2
+R0
+w1636537471
+8C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/Nbit_add_sub.v
+FC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/Nbit_add_sub.v
+!i122 25
+L0 2 32
+R3
+r1
+!s85 0
+31
+!s108 1640103360.000000
+!s107 C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/Nbit_add_sub.v|
+!s90 -reportprogress|300|-work|work|C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/Nbit_add_sub.v|
+!i113 1
+R4
+R5
+n@nbit_add_sub
+vNbit_add_sub_unsigned
+!s110 1640103331
+!i10b 1
+!s100 j<lVC`[R]Q`o9Kigf5GG92
+R1
+IQ2]f7S6O4VjCWh0HSg9`H3
+R2
+R0
+w1636434837
+8C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/Nbit_add_sub_unsigned.v
+FC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/Nbit_add_sub_unsigned.v
+!i122 21
+L0 1 37
+R3
+r1
+!s85 0
+31
+!s108 1640103331.000000
+!s107 C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/Nbit_add_sub_unsigned.v|
+!s90 -reportprogress|300|-work|work|C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/Nbit_add_sub_unsigned.v|
+!i113 1
+R4
+R5
+n@nbit_add_sub_unsigned
+vsigned_multiplier
+!s110 1640103352
+!i10b 1
+!s100 ok8ggCOLbacK?Sn5F<7gj3
+R1
+I>WFM4JSU[QC?924z:jGjW3
+R2
+R0
+w1636810191
+8C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/signed_multiplier.v
+FC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/signed_multiplier.v
+!i122 24
+L0 33 39
+R3
+r1
+!s85 0
+31
+!s108 1640103352.000000
+!s107 C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/signed_multiplier.v|
+!s90 -reportprogress|300|-work|work|C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/signed_multiplier.v|
+!i113 1
+R4
+R5
+vTB_full_adder
+!s110 1640103309
+!i10b 1
+!s100 CL_P]6gQmB<e@8jona4Qf3
+R1
+Ii4=SeOfDgX^6llmiLf6ie1
+R2
+R0
+w1636356118
+8C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/TB_full_adder.v
+FC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/TB_full_adder.v
+!i122 18
+L0 1 20
+R3
+r1
+!s85 0
+31
+!s108 1640103309.000000
+!s107 C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/TB_full_adder.v|
+!s90 -reportprogress|300|-work|work|C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/TB_full_adder.v|
+!i113 1
+R4
+R5
+n@t@b_full_adder
+vTB_MatrixMultiplier
+!s110 1640107378
+!i10b 1
+!s100 XQLPA>V8X@GZig63k7;EI2
+R1
+InG9RQ2aEB7Bhi>XmZhVzI0
+R2
+R0
+w1640103978
+8C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/TB_MatrixMultiplier.v
+FC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/TB_MatrixMultiplier.v
+!i122 35
+L0 1 43
+R3
+r1
+!s85 0
+31
+!s108 1640107378.000000
+!s107 C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/TB_MatrixMultiplier.v|
+!s90 -reportprogress|300|-work|work|C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/TB_MatrixMultiplier.v|
+!i113 1
+R4
+R5
+n@t@b_@matrix@multiplier
+vTB_signed_multiplier
+!s110 1640194847
+!i10b 1
+!s100 6fAGOkl=WYT5[8i[4KSVR3
+R1
+I9TiP`0DDUVS@GRjlb7L6K2
+R2
+R0
+w1636810401
+8C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/TB_signed_multiplier.v
+FC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/TB_signed_multiplier.v
+!i122 37
+L0 1 46
+R3
+r1
+!s85 0
+31
+!s108 1640194847.000000
+!s107 C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/TB_signed_multiplier.v|
+!s90 -reportprogress|300|-work|work|C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/V2/TB_signed_multiplier.v|
+!i113 1
+R4
+R5
+n@t@b_signed_multiplier

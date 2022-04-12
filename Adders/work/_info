@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/Adders
+vFullAdder_1Bit
+!s110 1632219506
+!i10b 1
+!s100 n9`QnV6d[Zz<Z4Mz3JhLi2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I`fFXmJYDzjD1dn[MFV^o61
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1632219442
+8C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/Adders/FullAdder_1Bit.v
+FC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/Adders/FullAdder_1Bit.v
+!i122 1
+L0 1 7
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1632219505.000000
+!s107 C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/Adders/FullAdder_1Bit.v|
+!s90 -reportprogress|300|-work|work|C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/Adders/FullAdder_1Bit.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@full@adder_1@bit
+vTB_FullAdder_1Bit
+!s110 1632220830
+!i10b 1
+!s100 nCeXb4aAIXWkmLC=aIG2G2
+R1
+I[JQj449R`olTNBEli?DNQ3
+R2
+R0
+w1632220764
+8C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/Adders/TB_FullAdder_1Bit.v
+FC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/Adders/TB_FullAdder_1Bit.v
+!i122 2
+L0 1 19
+R3
+r1
+!s85 0
+31
+!s108 1632220830.000000
+!s107 C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/Adders/TB_FullAdder_1Bit.v|
+!s90 -reportprogress|300|-work|work|C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/Adders/TB_FullAdder_1Bit.v|
+!i113 1
+R4
+R5
+n@t@b_@full@adder_1@bit

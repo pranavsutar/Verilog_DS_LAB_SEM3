@@ -1,0 +1,83 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/D Flip Flop
+vAdd_Sub_Nbit
+!s110 1639844690
+!i10b 1
+!s100 HlTa=fn:<HN>>GF>YB@5W2
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I;24Y0F_]Eja5c3zhiXkja1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/aoaopapaisnns
+w1636797531
+8C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/aoaopapaisnns/Add_Sub_Nbit.v
+FC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/aoaopapaisnns/Add_Sub_Nbit.v
+!i122 0
+L0 8 33
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1639844690.000000
+!s107 C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/aoaopapaisnns/Add_Sub_Nbit.v|
+!s90 -reportprogress|300|-work|work|C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/aoaopapaisnns/Add_Sub_Nbit.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@add_@sub_@nbit
+vArray_MUL
+!s110 1639844692
+!i10b 1
+!s100 LiB8M>zVHj56N>eo09jjg0
+R0
+IoZIlnU_JQha9R6]4><a2E2
+R1
+R2
+w1638366212
+8C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/aoaopapaisnns/Array_MUL.v
+FC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/aoaopapaisnns/Array_MUL.v
+!i122 1
+L0 8 65
+R3
+r1
+!s85 0
+31
+!s108 1639844692.000000
+!s107 C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/aoaopapaisnns/Array_MUL.v|
+!s90 -reportprogress|300|-work|work|C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/aoaopapaisnns/Array_MUL.v|
+!i113 1
+R4
+R5
+n@array_@m@u@l
+vD_FlipFlop_PC
+!s110 1639844694
+!i10b 1
+!s100 a?V5i?6ADm13Ufm:A;Jki1
+R0
+IN86[_Ah1]HYj`XS?JEHdD3
+R1
+R2
+w1639717053
+8C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/aoaopapaisnns/D_FlipFlop_PC.v
+FC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/aoaopapaisnns/D_FlipFlop_PC.v
+!i122 2
+L0 4 20
+R3
+r1
+!s85 0
+31
+!s108 1639844694.000000
+!s107 C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/aoaopapaisnns/D_FlipFlop_PC.v|
+!s90 -reportprogress|300|-work|work|C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/aoaopapaisnns/D_FlipFlop_PC.v|
+!i113 1
+R4
+R5
+n@d_@flip@flop_@p@c

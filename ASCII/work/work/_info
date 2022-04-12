@@ -1,0 +1,107 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/ASCII/work
+vASCII_to_BCD
+!s110 1634992899
+!i10b 1
+!s100 b1[Q`cj<4?>AlgEkQOniD3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IW^Idjim`@67[5U[^6W87C2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1634992806
+8C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/ASCII/ASCII_TO_BCD.v
+FC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/ASCII/ASCII_TO_BCD.v
+!i122 10
+L0 1 32
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1634992899.000000
+!s107 C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/ASCII/ASCII_TO_BCD.v|
+!s90 -reportprogress|300|-work|work|C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/ASCII/ASCII_TO_BCD.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@a@s@c@i@i_to_@b@c@d
+vBCD_to_ASCII
+!s110 1634996691
+!i10b 1
+!s100 ^]:LakZX:I`AeohUeT];R3
+R1
+IEOZFnzMF8?@n_M82WGl?b3
+R2
+R0
+w1634996670
+8C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/ASCII/BCD_to_ASCII.v
+FC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/ASCII/BCD_to_ASCII.v
+!i122 21
+L0 5 9
+R3
+r1
+!s85 0
+31
+!s108 1634996691.000000
+!s107 C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/ASCII/BCD_to_ASCII.v|
+!s90 -reportprogress|300|-work|work|C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/ASCII/BCD_to_ASCII.v|
+!i113 1
+R4
+R5
+n@b@c@d_to_@a@s@c@i@i
+vTB_ASCII_to_BCD
+!s110 1635009253
+!i10b 1
+!s100 <LC0IHRiAP>S8DdkbdAUJ0
+R1
+I8EFgoS>K4F_W^Y_YN`LLE1
+R2
+R0
+w1635009250
+8C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/ASCII/TB_ASCII_to_BCD.v
+FC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/ASCII/TB_ASCII_to_BCD.v
+!i122 29
+L0 1 14
+R3
+r1
+!s85 0
+31
+!s108 1635009253.000000
+!s107 C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/ASCII/TB_ASCII_to_BCD.v|
+!s90 -reportprogress|300|-work|work|C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/ASCII/TB_ASCII_to_BCD.v|
+!i113 1
+R4
+R5
+n@t@b_@a@s@c@i@i_to_@b@c@d
+vTB_BCD_to_ASCII
+!s110 1634997470
+!i10b 1
+!s100 m=a9zP3PjjkQ2EDb96>=h2
+R1
+IHmS]gR=Tf2E7FI65Yh?z_2
+R2
+R0
+w1634997337
+8C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/ASCII/TB_BCD_to_ASCII.v
+FC:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/ASCII/TB_BCD_to_ASCII.v
+!i122 25
+L0 1 16
+R3
+r1
+!s85 0
+31
+!s108 1634997470.000000
+!s107 C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/ASCII/TB_BCD_to_ASCII.v|
+!s90 -reportprogress|300|-work|work|C:/Users/91762/OneDrive/Desktop/IITT Sem3/Digital System Labs/Verilog_/ASCII/TB_BCD_to_ASCII.v|
+!i113 1
+R4
+R5
+n@t@b_@b@c@d_to_@a@s@c@i@i

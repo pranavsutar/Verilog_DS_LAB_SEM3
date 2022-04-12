@@ -1,0 +1,15 @@
+//Made by Pranav, CS20B029
+module TB_ASCII_to_BCD();
+parameter n =32, m = 16;
+reg [31:0]ascii;
+wire [15:0]bcd;
+wire VALID;
+ASCII_to_BCD #( .N(n), .M(m)) DUT(  .ASCII(ascii), .BCD(bcd), .valid(VALID));
+
+initial 
+begin 
+ascii=32'h31393837;
+#100 ascii = 32'h37373336;
+#100 ascii=32'h39393939;
+end
+endmodule

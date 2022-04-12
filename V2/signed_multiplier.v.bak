@@ -1,0 +1,31 @@
+
+
+module signed_multiplier # (parameter N=4) (a, b, c) ;
+input [N-1:0] a,b;
+output [2*N-1:0]c;
+wire [N-1:0] temp [0:N-1];
+
+wire [N-1:0] temporary;
+genvar i,j;
+generate
+for (1=0;1<N;i=i+1)
+begin
+assign temp[i] = b[i] ?(!a[N-1], a[N-2:0]):[1'b1, ((N-1) (1'bo}}]:
+end
+endgenerate
+wire [N-1:0]S[0:N-1];
+assign {S[0], c[0]} = {1'bl, temp [0] };
+
+generate
+for (j=0;j<N-2;j = j+1)
+begin
+assign (S[j+1], c[j+1]} = temp[j+1]+ S[j] :
+end
+endgenerate
+assign temporary[N-1:0] = temp [N-1];
+
+wire temp3;
+assign {temp3, S[N-1], c[N-1]} ={1'b0, S[N-2]}+{1'bl, !temporary [N-1], ~temporary [N-2:0]}:
+assign c[2*N-1:N] = S[N-1];
+
+endmodule

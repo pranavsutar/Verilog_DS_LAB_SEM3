@@ -1,0 +1,18 @@
+module TB_RING_COUNTER();
+parameter M=4;
+reg clk, rst;
+wire [M-1:0]q;
+
+RING_COUNTER #(.N(M)) RC (.clock(clk), .reset(rst), .Q(q)) ;
+initial
+begin
+ 
+clk = 1'b0;
+rst = 1'b1;
+#20 rst = 1'b0;
+
+end
+
+always #20 clk = ~clk;
+
+endmodule
