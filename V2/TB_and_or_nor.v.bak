@@ -1,0 +1,23 @@
+module TB_and_or_nor();
+
+parameter M = 4; // Test vectors size is 2^64 x 2^64 x 2 = 2^129
+
+reg [M-1:0]a, b; 
+ 
+wire [M-1:0]AND,OR,NOR;
+
+and_or_nor#(.N(M))  AON (.A(a) , .B(b) , .AND(AND), .OR(OR), .NOR(NOR) );
+
+initial begin
+
+repeat(50)
+begin
+#10 a = $random; b = $random; 
+//#100 // 100 units delay 
+//$display("a=%d,b=%d",$signed(a),$signed(b),$signed(AND),$signed(OR),$signed(NOR));
+end
+
+$stop;
+end
+
+endmodule 

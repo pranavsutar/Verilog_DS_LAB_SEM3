@@ -1,0 +1,24 @@
+
+module and_or_nor #(parameter N=4)(A,B,AND,OR,NOR);
+//parameter N = 4;
+input [N-1:0]A,B; // inputs are N-bits 
+output [N-1:0]AND,OR,NOR; // output is N+1-bits 
+
+
+
+
+genvar i; 
+
+generate 
+
+for (i = 0; i < N+1; i= i+1) begin 
+and(AND[i], A[i],B[i]);
+or(OR[i], A[i],B[i]);
+nor(AND[i], A[i],B[i]);
+
+
+end
+
+endgenerate
+
+endmodule
